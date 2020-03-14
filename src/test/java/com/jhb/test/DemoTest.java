@@ -9,24 +9,5 @@ public class DemoTest {
     public void test() {
 
     }
-
-
-    public void test02() {
-
-    }
-
-
-    public void test03() {
-
-    }
-
-
-    public void test04() {
-        int a = 200;
-
-    }
-
-    public void test05() {
-        int b = 1;
-    }
+    
 }
