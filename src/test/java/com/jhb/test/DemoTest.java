@@ -26,6 +26,6 @@ public class DemoTest {
     }
 
     public void test05() {
-
+        int b = 1;
     }
 }
