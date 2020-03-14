@@ -22,7 +22,7 @@ public class DemoTest {
 
 
     public void test04() {
-
+        int a = 1;
     }
 
     public void test05() {
