@@ -7,6 +7,11 @@ public class DemoTest {
 
 
     public void test() {
-        
+
+    }
+
+
+    public void test02() {
+
     }
 }
